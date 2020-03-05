@@ -11,7 +11,7 @@
         <description>Steps to approve and fulfill NeedIt requests.</description>
         <internal_name>needit_fulfillment</internal_name>
         <label_cache>[{"name":"a76e000b-f826-4461-a8cc-00fd773ff73f.record","label":"1➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt Record","type":"reference","base_type":"reference"},{"name":"a76e000b-f826-4461-a8cc-00fd773ff73f.table_name","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt Table","type":"table_name","base_type":"table_name"},{"name":"Created_1.current","label":"Trigger➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"reference","base_type":"reference"},{"name":"354e124d-a04b-4663-b65c-7d07137e7042.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Created_1.current.u_requested_for.manager","label":"Trigger➛NeedIt Record➛Requested for➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"}]</label_cache>
-        <latest_snapshot>e0bc5ef41bd30010a14d31d7dc4bcb2d</latest_snapshot>
+        <latest_snapshot/>
         <master_snapshot>2f0c92f41bd30010a14d31d7dc4bcbe6</master_snapshot>
         <name>NeedIt Fulfillment</name>
         <outputs/>
